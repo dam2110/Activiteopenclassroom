@@ -1,4 +1,4 @@
-
+<!-- (MESSAGE DE BIENVENU) Merci à toi ô grand correcteur ! -->
   
    <!DOCTYPE html>
 <html>
